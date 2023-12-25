@@ -1,5 +1,5 @@
 # Hey There! 👋
-  **I'm Deshun (he/they)** - I'm a Tfinal year Information Systems Undergraduate at NUS who has an interested in full-stack development, moderation, and building thriving online communities. I like work on random projects and these can be found in my GitHub repositories.
+  **I'm Deshun** - I'm a final year Information Systems Undergraduate at NUS who has an interested in full-stack development, moderation, and building thriving online communities. I like work on random projects and these can be found in my GitHub repositories.
 
 [![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,nextjs,react,nestjs,aws,java,mysql,mongodb,firebase,vercel,figma)](https://skillicons.dev)<br/>
 
